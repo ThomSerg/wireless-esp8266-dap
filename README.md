@@ -10,6 +10,8 @@
 
 [中文](README_CN.md)
 
+test push
+
 ## Introduce
 
 Wireless debugging with ***only one ESP Chip*** !
